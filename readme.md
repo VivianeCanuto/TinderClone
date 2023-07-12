@@ -8,7 +8,7 @@ Tecnologias Utilizadas
 * CSS3
 
   Pré-visualização
-  ![Login Page Preview](img/page.png)
+  ![Login Page Preview](page.png)
 
   Como Executar o Projeto
   
